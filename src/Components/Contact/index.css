@@ -1,0 +1,68 @@
+
+.contact-container {
+    width: 50%;
+    background-color: #ffffff89;
+    box-shadow: #ffffff89;
+    border-radius: 8px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
+
+.main-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 85vh;
+}
+
+.name-designation {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.designation {
+    height: 30px;
+    border: 0px ;
+    border-radius: 5px;
+    font-size: 14px;
+
+}
+
+.inputCountry {
+    height: 30px;
+    color: rgba(103, 108, 112, 0.939);
+    border: 0px ;
+    border-radius: 5px;
+    padding: 5px 20px 5px 20px;
+    margin: 5px;
+    font-size: 14px;
+}
+
+.mobileNumber {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.inputPhoneCountryCode {
+    height: 30px;
+    color: rgba(103, 108, 112, 0.939);
+    border: 0px ;
+    border-radius: 5px;
+    font-size: 14px;
+    text-align: center;
+}
+
+input {
+    width: 80%;
+}
+
+.contact-heading {
+    color: black;
+    font-size: 28px;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 10px;
+}
